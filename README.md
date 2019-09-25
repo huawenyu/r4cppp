@@ -50,6 +50,9 @@ catered for.
 1. [Graphs and arena allocation](graphs/README.md)
 1. [Closures and first-class functions](closures.md)
 
+## Startup
+
+### Env setup
 
 ## Other resources
 
